@@ -15,3 +15,39 @@ Persistent storage using files
 Easy-to-use menu interface
 
 Practical implementation of C structures and functions
+
+🧰 Tools & Technologies
+
+Language: C Programming
+
+Compiler: GCC / Turbo C / Code::Blocks
+
+Editor: Visual Studio Code
+
+File Type: Text file (.txt)
+
+
+🎯 Learning Outcomes
+
+Hands-on understanding of structures and file I/O in C
+
+Implementing data persistence in real-time applications
+
+Knowledge of function modularity and structured design
+
+Industry-ready practice in C-based system projects
+
+🚀 Future Enhancements
+
+Implement bus search (by number, source, or destination)
+
+Add ticket booking and seat management
+
+Include admin authentication
+
+Store data in binary files for efficiency
+
+🏁 Conclusion
+
+The Bus Management System is a practical and beginner-friendly project that brings together multiple programming concepts in C.
+It mimics a small transport management system, emphasizing the real-world importance of file handling and structured data organization.

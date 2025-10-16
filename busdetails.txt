@@ -1,0 +1,11 @@
+#1,APSRTC Express NON-AC Seater,6823,Hindupur,Tirupathi,05:00,12:45,41,1
+#2,APSRTC Express NON-AC Seater,6826,Hindupur,Tirupathi,06:30,13:30,45,0
+#3,Morning Start Travels,565,Hindupur,Tirupatthi,20:15,04:00,27,0
+#4,Yolo Bus,132,Tirupathi,Banglore,22:00,03:58,36,0
+#5,Fresh Bus Electric,678,Tirupathi,Banglore,08:00,13:20,37,0
+#6,HYBUS,890,Tirupathi,Banglore,23:45,05:15,35,0
+#7,Lucky Travels,676,Tirupathi,Banglore,01:20,06:00,24,0
+#8,Shree Manikanta Travels,454,Tirupathi,Banglore,03:15,06:45,35,0
+#9,Lucky Travels,600,Tirupathi,Banglore,01:00,05:35,28,0
+#10,IntrCity SmartBus,676,Tirupathi,Banglore,01:00,06:00,37,0
+#11,Ira Transport,565,Tirupathi,Banglore,02:30,06:50,31,0
